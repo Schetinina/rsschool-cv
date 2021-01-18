@@ -1,5 +1,6 @@
 # Liudmila Schetinina
 
+I'm just starting out in programming, but I have a lot of interest and passion. In the future I wanna work on interesting projects with a great team.
 
 ## Contacts
 C: +7 913 665 81 37
