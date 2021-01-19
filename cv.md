@@ -22,9 +22,8 @@ E: liudmila.schetinina@gmail.com
 * Motivation 
 * English B1
 
-
 ## Projects
-1. https://github.com/Schetinina/rsschool-cv [Markdown]
+1. [https://schetinina.github.io/rsschool-cv/cv](https://schetinina.github.io/rsschool-cv/cv) [Markdown]
 
 ## Work experience
 Cashier | Zara home 
